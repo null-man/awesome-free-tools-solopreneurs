@@ -53,6 +53,7 @@ A curated list of awesome free tools, templates, and resources for solopreneurs,
 *   **[Figma](https://figma.com)** - Collaborative web-based design tool. Excellent for prototyping landing pages and UI designs.
 *   **[Unsplash](https://unsplash.com)** - Thousands of high-resolution, royalty-free stock photos editable for commercial use.
 *   **[Excalidraw](https://excalidraw.com)** - Virtual whiteboard for sketching diagrams, database structures, and wireframes.
+*   **[TinyTools](https://tinytools-smoky.vercel.app/)** - Suite of 9 free browser-based utilities for solopreneurs: favicon generator, OG image generator, color palette generator, AI background remover, SEO meta tag generator, domain name generator, AI robots.txt generator, and AI content disclosure generator (EU AI Act). No signup, open source.
 
 ## 📈 Marketing, SEO & Newsletters
 *Drive traffic, capture email leads, and build an audience of loyal customers.*
