@@ -44,6 +44,9 @@ A curated list of awesome free tools, templates, and resources for solopreneurs,
 *   **[Claude](https://claude.ai)** - Exceptional AI assistant developed by Anthropic. Highly recommended for complex coding, logical reasoning, and copywriting.
 *   **[ChatGPT](https://chat.openai.com)** - The industry-standard AI chatbot for ideation, content creation, and technical support.
 *   **[GrokVideo Studio](https://grokvideogenerator.dev)** - Independent text/image-to-video using the Grok Imagine API (not affiliated with xAI or X); free trial credits.
+- **[Alors On Danse Video Maker](https://alorsondansevideo.com)** — Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok). `Paid`
+- **[Bad Times AI](https://badtimesai.dev)** — Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99). `Paid`
+- **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** — Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99). `Paid`
 *   **[Notion](https://notion.so)** - The ultimate workspace. Organize your docs, projects, CRM, and content calendars in one unified place.
 *   **[Perplexity AI](https://www.perplexity.ai)** - Conversational search engine that provides sourced answers in real-time. Excellent for market research.
 
