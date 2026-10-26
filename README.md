@@ -43,6 +43,7 @@ A curated list of awesome free tools, templates, and resources for solopreneurs,
 
 *   **[Claude](https://claude.ai)** - Exceptional AI assistant developed by Anthropic. Highly recommended for complex coding, logical reasoning, and copywriting.
 *   **[ChatGPT](https://chat.openai.com)** - The industry-standard AI chatbot for ideation, content creation, and technical support.
+*   **[GrokVideo Studio](https://grokvideogenerator.dev)** - Independent text/image-to-video using the Grok Imagine API (not affiliated with xAI or X); free trial credits.
 *   **[Notion](https://notion.so)** - The ultimate workspace. Organize your docs, projects, CRM, and content calendars in one unified place.
 *   **[Perplexity AI](https://www.perplexity.ai)** - Conversational search engine that provides sourced answers in real-time. Excellent for market research.
 
@@ -50,6 +51,8 @@ A curated list of awesome free tools, templates, and resources for solopreneurs,
 *Create stunning visuals and interactive user experiences without hiring a designer.*
 
 *   **[Canva](https://www.canva.com)** - Drag-and-drop graphic design platform. Perfect for social media banners, ebooks, and slide decks.
+*   **[PromptImage](https://promptimage.cloud)** - Free AI image & video studio with a prompt library; freemium signup credits, no card required.
+*   **[TeslaWraps](https://teslawraps.design)** - Free browser editor for Tesla Paint Shop wraps; core editing and PNG export free without an account.
 *   **[Figma](https://figma.com)** - Collaborative web-based design tool. Excellent for prototyping landing pages and UI designs.
 *   **[Unsplash](https://unsplash.com)** - Thousands of high-resolution, royalty-free stock photos editable for commercial use.
 *   **[Excalidraw](https://excalidraw.com)** - Virtual whiteboard for sketching diagrams, database structures, and wireframes.
